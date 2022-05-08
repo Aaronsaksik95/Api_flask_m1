@@ -1,4 +1,4 @@
-from resources.movies import MoviesController, MovieController
+from models.movies import MoviesController, MovieController
 
 
 def initialize_routes(api):
